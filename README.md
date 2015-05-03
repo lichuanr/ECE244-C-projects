@@ -1,6 +1,7 @@
 # ECE244-Projects
 <body>
-<h4>The code in this repository are my solutions for ECE244 labs at the University of Toronto.Please do not use it for your own course work, thank you. Feel Free to email me for any mistakes in the repo or if you have any questions about C++ programming.
+<h4>The code in this repository are my solutions for ECE244 labs at the University of Toronto. Please do not use it for your own course work, thank you.</h4> 
+<h4>Feel Free to email me for any mistakes in the repo or if you have any questions about C++ programming.
 <a href="mailto:chuanrui.li@mail.utoronto.ca?Subject=ECE244" target="_top">Send me a mail</a></h4> 
 <ul>
 <li><h4>Lab2</h4></li>
