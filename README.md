@@ -1,6 +1,7 @@
 # ECE244-Projects
 <body>
-<h3>Please do not use it for your own course work</h3> 
+<h4>The code in this repository are my solutions for ECE244 labs at the University of Toronto.Please do not use it for your own course work, thank you. Feel Free to email me for any mistakes in the repo or if you have any questions about C++ programming.
+<a href="mailto:chuanrui.li@mail.utoronto.ca?Subject=ECE244" target="_top">Send me a mail</a></h4> 
 <ul>
 <li><h4>Lab2</h4></li>
 <p>You will write a command parser that provides a textual input interface to your program, a circuit database program which contains a number of resistors. We do not implement the database here, just the front-end that accepts commands. The parser should take a sequence of commands as input. Each command consists of an operation followed by its arguments. The command and the arguments are separated by one or more whitespace characters1 The program should take input from the terminal or a file, parse it, verify that it is correct, and print a response or error message. It will loop, processing input according to the specification laid out below as long as input is available.</p>
